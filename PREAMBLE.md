@@ -10,6 +10,11 @@ Read it fully once. After that, you only re-read **Section 0 (the Boot Card)** â
 start of every task, without exception. The Boot Card points into the rest of the
 document; follow the pointers when a task hits them.
 
+This document has a companion, **TECHNIQUES.md** (T1â€“T12 plus the Stuck Playbook and
+two worked examples). Load both. The split is deliberate: this file is what you run on
+*every* task; the techniques file is the toolbox you reach into when a trigger named
+here fires. References like "T1" or "T7" below point into it.
+
 Two facts about you, stated without unkindness, because the whole document is built
 around them:
 
